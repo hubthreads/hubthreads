@@ -25,7 +25,7 @@ HubThreads is a centralized platform built to **connect, collaborate, and grow c
 - API integrations and plugins
 
 ## 📫 How to reach me:
-- 💌 Email: hello@hubthreads.com
+- 💌 Email: info@hubthreads.com
 - 🌐 Website: [hubthreads.com](https://hubthreads.com)
 
 Let’s build something awesome, one thread at a time! 🧵✨
